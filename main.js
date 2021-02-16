@@ -1,2 +1,7 @@
+var moment = require('moment'); // require
+
+
 const myDate = new Date();
-console.log(myDate);
+var myCoolDate = moment(myDate).format('LL'); 
+
+console.log(myCoolDate);
