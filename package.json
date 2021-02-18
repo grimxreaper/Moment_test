@@ -18,8 +18,6 @@
   "homepage": "https://github.com/grimxreaper/npm#readme",
   "dependencies": {
     "moment": "^2.29.1",
-    "uniq": "^1.0.1",
-    "browserify" : "latest"
-    
+    "uniq": "^1.0.1"
   }
 }
